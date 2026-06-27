@@ -1,0 +1,124 @@
+2026-05-02 01:52:16 | INFO | Logging initialized.
+2026-05-02 01:53:20 | INFO | Logging initialized.
+2026-05-02 01:53:21 | INFO | Logging initialized.
+2026-05-02 01:53:26 | INFO | Starting model training.
+2026-05-02 01:53:26 | INFO | Training Linear Regression.
+2026-05-02 01:53:26 | INFO | Linear Regression R2=0.5311, MAE=2182.18, RMSE=3150.27
+2026-05-02 01:53:26 | INFO | Training Random Forest.
+2026-05-02 01:53:29 | INFO | Random Forest R2=0.8526, MAE=873.33, RMSE=1766.06
+2026-05-02 01:53:29 | INFO | Training XGBoost.
+2026-05-02 01:53:35 | INFO | XGBoost R2=0.8930, MAE=672.24, RMSE=1505.13
+2026-05-02 01:53:35 | INFO | Selected best model: XGBoost
+2026-05-02 01:53:35 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\flight_model.pkl
+2026-05-02 01:53:35 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\model_info.pkl
+2026-05-02 01:53:39 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\flight_model.pkl
+2026-05-02 01:53:39 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\model_info.pkl
+2026-05-02 02:29:48 | INFO | Logging initialized.
+2026-05-02 02:34:24 | INFO | Logging initialized.
+2026-05-02 02:36:10 | INFO | Logging initialized.
+2026-05-02 02:37:52 | INFO | Logging initialized.
+2026-05-02 02:37:52 | INFO | Logging initialized.
+2026-05-02 02:38:04 | INFO | Logging initialized.
+2026-05-02 02:38:09 | INFO | Logging initialized.
+2026-05-02 02:38:19 | INFO | Logging initialized.
+2026-05-02 02:40:03 | INFO | Logging initialized.
+2026-05-02 02:40:15 | INFO | Logging initialized.
+2026-05-02 02:40:20 | INFO | Logging initialized.
+2026-05-02 02:40:26 | INFO | Logging initialized.
+2026-05-02 02:40:59 | INFO | Logging initialized.
+2026-05-02 02:41:10 | INFO | Logging initialized.
+2026-05-02 02:41:18 | INFO | Logging initialized.
+2026-05-02 02:41:24 | INFO | Logging initialized.
+2026-05-02 02:49:13 | INFO | Logging initialized.
+2026-05-02 02:49:23 | INFO | Logging initialized.
+2026-05-02 02:49:26 | INFO | Logging initialized.
+2026-05-02 02:49:30 | INFO | Starting model training.
+2026-05-02 02:49:30 | INFO | Training Linear Regression.
+2026-05-02 02:49:31 | INFO | Linear Regression R2=0.5311, MAE=2182.18, RMSE=3150.27
+2026-05-02 02:49:31 | INFO | Training Random Forest.
+2026-05-02 02:49:34 | INFO | Random Forest R2=0.8526, MAE=873.33, RMSE=1766.06
+2026-05-02 02:49:34 | INFO | Training XGBoost.
+2026-05-02 02:49:41 | INFO | XGBoost R2=0.8930, MAE=672.24, RMSE=1505.13
+2026-05-02 02:49:41 | INFO | Selected best model: XGBoost
+2026-05-02 02:49:41 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\flight_model.pkl
+2026-05-02 02:49:41 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\model_info.pkl
+2026-05-02 02:49:45 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\flight_model.pkl
+2026-05-02 02:49:45 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\Submission Project\Final\project\models\model_info.pkl
+2026-05-02 03:08:29 | INFO | Logging initialized.
+2026-05-02 03:12:11 | INFO | Logging initialized.
+2026-05-02 03:12:18 | INFO | Logging initialized.
+2026-05-02 03:12:21 | INFO | Logging initialized.
+2026-05-02 03:12:25 | INFO | Logging initialized.
+2026-05-02 03:12:30 | INFO | Logging initialized.
+2026-05-02 03:12:32 | INFO | Logging initialized.
+2026-05-02 03:12:36 | INFO | Logging initialized.
+2026-05-02 03:12:44 | INFO | Logging initialized.
+2026-05-02 03:12:45 | INFO | Logging initialized.
+2026-05-18 07:55:49 | INFO | Logging initialized.
+2026-05-18 10:57:02 | INFO | Logging initialized.
+2026-05-18 10:57:21 | INFO | Logging initialized.
+2026-05-18 10:57:24 | INFO | Logging initialized.
+2026-05-18 10:57:53 | INFO | Logging initialized.
+2026-05-18 10:59:15 | INFO | Logging initialized.
+2026-05-18 10:59:19 | INFO | Starting model training.
+2026-05-18 10:59:19 | INFO | Training Linear Regression.
+2026-05-18 10:59:19 | INFO | Linear Regression R2=0.5311, MAE=2182.18, RMSE=3150.27
+2026-05-18 10:59:19 | INFO | Training Random Forest.
+2026-05-18 10:59:23 | INFO | Random Forest R2=0.8526, MAE=873.33, RMSE=1766.06
+2026-05-18 10:59:23 | INFO | Training XGBoost.
+2026-05-18 10:59:28 | INFO | XGBoost R2=0.8930, MAE=672.24, RMSE=1505.13
+2026-05-18 10:59:28 | INFO | Selected best model: XGBoost
+2026-05-18 10:59:29 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\External viva\project\models\flight_model.pkl
+2026-05-18 10:59:29 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\External viva\project\models\model_info.pkl
+2026-05-18 10:59:34 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\External viva\project\models\flight_model.pkl
+2026-05-18 10:59:34 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\External viva\project\models\model_info.pkl
+2026-05-18 11:00:42 | INFO | Logging initialized.
+2026-05-18 11:02:19 | INFO | Logging initialized.
+2026-05-18 11:02:55 | INFO | Logging initialized.
+2026-05-18 11:03:03 | INFO | Logging initialized.
+2026-05-18 11:03:12 | INFO | Logging initialized.
+2026-05-18 11:03:16 | INFO | Logging initialized.
+2026-05-18 11:03:18 | INFO | Logging initialized.
+2026-05-18 11:03:59 | INFO | Logging initialized.
+2026-05-18 11:04:01 | INFO | Logging initialized.
+2026-05-18 11:04:02 | INFO | Logging initialized.
+2026-05-18 11:04:04 | INFO | Logging initialized.
+2026-05-18 11:04:15 | INFO | Logging initialized.
+2026-05-18 11:04:18 | INFO | Logging initialized.
+2026-05-18 11:04:20 | INFO | Logging initialized.
+2026-05-18 11:04:21 | INFO | Logging initialized.
+2026-05-18 11:04:23 | INFO | Logging initialized.
+2026-05-18 11:04:24 | INFO | Logging initialized.
+2026-05-18 11:04:41 | INFO | Logging initialized.
+2026-05-18 11:04:44 | INFO | Logging initialized.
+2026-05-18 11:04:47 | INFO | Logging initialized.
+2026-05-18 11:22:36 | INFO | Logging initialized.
+2026-05-18 11:23:02 | INFO | Logging initialized.
+2026-05-18 11:27:44 | INFO | Logging initialized.
+2026-05-18 11:28:10 | INFO | Logging initialized.
+2026-05-18 11:28:16 | INFO | Logging initialized.
+2026-05-18 11:28:17 | INFO | Starting model training.
+2026-05-18 11:28:17 | INFO | Training Linear Regression.
+2026-05-18 11:28:17 | INFO | Linear Regression R2=0.5311, MAE=2182.18, RMSE=3150.27
+2026-05-18 11:28:17 | INFO | Training Random Forest.
+2026-05-18 11:28:21 | INFO | Random Forest R2=0.8524, MAE=877.80, RMSE=1767.28
+2026-05-18 11:28:21 | INFO | Training XGBoost.
+2026-05-18 11:28:27 | INFO | XGBoost R2=0.8928, MAE=674.54, RMSE=1506.56
+2026-05-18 11:28:27 | INFO | Selected best model: XGBoost
+2026-05-18 11:28:27 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\External viva\project\models\flight_model.pkl
+2026-05-18 11:28:27 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\External viva\project\models\model_info.pkl
+2026-05-18 11:28:33 | INFO | Saved model pipeline to C:\Users\Mahipal Sen\Desktop\External viva\project\models\flight_model.pkl
+2026-05-18 11:28:33 | INFO | Saved model metadata to C:\Users\Mahipal Sen\Desktop\External viva\project\models\model_info.pkl
+2026-05-18 11:28:52 | INFO | Logging initialized.
+2026-05-18 11:29:00 | INFO | Logging initialized.
+2026-05-19 11:36:52 | INFO | Logging initialized.
+2026-05-19 11:36:53 | INFO | Logging initialized.
+2026-05-19 11:36:57 | INFO | Logging initialized.
+2026-05-19 11:36:57 | INFO | Logging initialized.
+2026-05-19 11:36:59 | INFO | Logging initialized.
+2026-05-19 11:37:00 | INFO | Logging initialized.
+2026-05-19 11:37:02 | INFO | Logging initialized.
+2026-05-19 11:37:03 | INFO | Logging initialized.
+2026-05-19 11:37:12 | INFO | Logging initialized.
+2026-05-19 11:37:13 | INFO | Logging initialized.
+2026-05-19 11:37:15 | INFO | Logging initialized.
