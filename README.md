@@ -171,8 +171,4 @@ Enter flight details and generate:
 | No model found | Train a model from the Data Loading page or run `python train.py --data Flight_Fare.xlsx`. |
 | Excel file cannot be read | Ensure `openpyxl` is installed from `requirements.txt`. |
 | Dataset is rejected | Check that required columns for airline, source, destination, date, departure time, duration, and price are present. |
-| Streamlit port is busy | Run `streamlit run app.py --server.port 8502`. |
-
-## Project Status
-
-This project is ready for local demonstration, academic submission, and viva/faculty presentation. The core code is modular, with separate files for the app, training, preprocessing, and utilities.
+| Streamlit port is busy | Run `streamlit run app.py --server.port 8502`. 
