@@ -1,1 +1,0 @@
-A Streamlit web app that predicts flight fares using Machine Learning (Random Forest, XGBoost, Linear Regression) — with data insights, model training, and real-time fare estimation from route, airline, and schedule details.
